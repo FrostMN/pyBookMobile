@@ -15,6 +15,7 @@
 		9321CBFC1FA0D0C100DFDFDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9321CBFA1FA0D0C100DFDFDA /* LaunchScreen.storyboard */; };
 		9321CC071FA0D0C100DFDFDA /* pyBookMobileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9321CC061FA0D0C100DFDFDA /* pyBookMobileTests.swift */; };
 		9321CC121FA0D0C100DFDFDA /* pyBookMobileUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9321CC111FA0D0C100DFDFDA /* pyBookMobileUITests.swift */; };
+		9321CC201FA0D91800DFDFDA /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9321CC1F1FA0D91800DFDFDA /* ScannerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9321CC0D1FA0D0C100DFDFDA /* pyBookMobileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pyBookMobileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9321CC111FA0D0C100DFDFDA /* pyBookMobileUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pyBookMobileUITests.swift; sourceTree = "<group>"; };
 		9321CC131FA0D0C100DFDFDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9321CC1F1FA0D91800DFDFDA /* ScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				9321CBF81FA0D0C100DFDFDA /* Assets.xcassets */,
 				9321CBFA1FA0D0C100DFDFDA /* LaunchScreen.storyboard */,
 				9321CBFD1FA0D0C100DFDFDA /* Info.plist */,
+				9321CC1F1FA0D91800DFDFDA /* ScannerViewController.swift */,
 			);
 			path = pyBookMobile;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				9321CBF41FA0D0C100DFDFDA /* SecondViewController.swift in Sources */,
 				9321CBF01FA0D0C100DFDFDA /* AppDelegate.swift in Sources */,
 				9321CBF21FA0D0C100DFDFDA /* FirstViewController.swift in Sources */,
+				9321CC201FA0D91800DFDFDA /* ScannerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
